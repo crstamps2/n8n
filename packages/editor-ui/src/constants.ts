@@ -119,3 +119,5 @@ export const COMPANY_SIZE_PERSONAL_USE = 'personalUser';
 export const CODING_SKILL_KEY = 'codingSkill';
 export const OTHER_WORK_AREA_KEY = 'otherWorkArea';
 
+export const LOCAL_STORAGE_ACTIVATION_FLAG = 'N8N_HIDE_ACTIVATION_ALERT';
+
